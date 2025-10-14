@@ -1,3 +1,17 @@
+#include <stdio.h>
+#include <locale.h>
+
+Task3Lab6();
+
+main()
+
+{
+	setlocale(LC_ALL, "RUS");
+
+	Task3Lab6();
+	
+}
+
 Task3Lab6()
 {
 	//я 19 вариант
