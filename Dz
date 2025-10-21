@@ -20,7 +20,7 @@ Task3Lab6()
 	scanf("%i", &kop);
 	if (kop % 10 == 1 && kop != 11) printf("%i копейка", kop);
 	if (kop ==11 || kop == 12 || kop == 13 || kop == 14) printf("%i копеек", kop);
-	if (kop % 10 == 2 || kop % 10 == 3 || kop % 10 == 4) printf("%i копейки", kop);
+	if ((kop % 10 == 2 || kop % 10 == 3 || kop % 10 == 4) && kop != 12 && kop != 13 && kop !=14) printf("%i копейки", kop);
 	if (kop % 10 == 5 || kop % 10 == 6 || kop % 10 == 7 || kop % 10 == 8 || kop % 10 == 9 || kop % 10 == 0) printf("%i копеек", kop);
 	if (kop > 99 || kop < 1) printf("Данное число вне заданного диапазона");
 
