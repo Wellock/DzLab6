@@ -13,7 +13,7 @@
    * Если число заканчивается на 2, 3, 4 >>> выводим "копейки"
    * Если число вне диапозона от 1 до 99 >>> выводим "число вне диапазона"
 # Блок схема
-<img width="731" height="1119" alt="Диаграмма Lab6 drawio" src="https://github.com/user-attachments/assets/368d97e6-a6e5-473c-bccd-72637dc09cd4" />
+<img width="731" height="1119" alt="Диаграмма Lab6 drawio" src="https://github.com/user-attachments/assets/368d97e6-a6e5-473c-bccd-72637dc09cd4" />  
 # 2. Реализация программы
 Реализация программы находится в Dz
 # 3. Результаты работы программы
